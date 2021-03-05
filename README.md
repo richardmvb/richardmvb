@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Fullstack Software Engineer that love web based techologies!
+- 💼 &nbsp; Fullstack Software Engineer that love web based technologies!
 
 <h3> 🤝🏻 Be in touch </h3>
 
